@@ -49,7 +49,7 @@
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="GameOps 首页" width="100%" />
+  <img src="./screenshots/home.jpg" alt="GameOps 首页" width="100%" />
   <br/>
   <sub><b>AI 驱动的游戏运营决策平台</b></sub>
 </div>
