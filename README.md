@@ -44,6 +44,18 @@
 
 平台**当月建议采用率达 78%**，帮助团队将**平均决策周期压缩至 2.4 天**，是提升游戏运营效率的得力 AI 助手。
 
+
+
+<br/>
+
+## 🎬 产品截图
+
+<div align="center">
+  <img src="./screenshots/home.png" alt="GameOps 首页" width="100%" />
+  <br/>
+  <sub><b>AI 驱动的游戏运营决策平台</b></sub>
+</div>
+
 <br/>
 
 ## 🪐 立即体验
